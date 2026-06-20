@@ -123,7 +123,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-cyan-400/20 to-transparent pointer-events-none rounded-2xl" />
               
               <Image
-                src="https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=500&h=500&fit=crop"
+                src="/rafly-profile.png"
                 alt="Rafly Firmansyah - Network Engineering Professional"
                 width={500}
                 height={500}
